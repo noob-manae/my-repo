@@ -4,4 +4,4 @@
 <br>
 Or you can use the button below
 <br>
-<a href='sileo://repostiory/https://noob-manae.github.io/my-repo/'><button> Add to Sileo </button></a>
+<a href='sileo://repostiory/https://noob-manae.github.io/my-repo/'> <button> Add to Sileo </button> </a>
